@@ -1,0 +1,30 @@
+{
+  "name": "NEXORA — Transforme intenção em evolução",
+  "short_name": "NEXORA",
+  "description": "A NEXORA transforma objetivos em ações diárias para você vencer a procrastinação, construir disciplina e evoluir de verdade.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#08080D",
+  "theme_color": "#08080D",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
